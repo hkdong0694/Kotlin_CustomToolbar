@@ -6,7 +6,6 @@ import android.view.LayoutInflater
 import android.view.View
 import android.widget.FrameLayout
 import com.example.customtoolbar.R
-import kotlinx.android.synthetic.main.custom_common_toolbar.view.*
 
 /**
  * CustomToolbar
